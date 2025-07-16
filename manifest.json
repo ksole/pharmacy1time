@@ -1,0 +1,16 @@
+{
+  "name": "حساب جرعات الشرابات",
+  "short_name": "جرعات",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f1f6fa",
+  "description": "أداة لحساب جرعات أدوية الشراب للأطفال حسب الوزن أو العمر.",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#004080"
+}
