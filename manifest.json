@@ -1,0 +1,14 @@
+
+{
+  "name": "حساب جرع الشرابات",
+  "short_name": "جرعات",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f1f6fa",
+  "theme_color": "#004080",
+  "icons": [{
+    "src": "preview.jpg",
+    "sizes": "512x512",
+    "type": "image/jpeg"
+  }]
+}
