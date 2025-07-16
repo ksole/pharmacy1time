@@ -1,0 +1,17 @@
+
+{
+  "name": "حساب جرعات الشرابات",
+  "short_name": "جرعات الشرابات",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#004080",
+  "description": "تطبيق لحساب جرعات أدوية الشراب للأطفال",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
